@@ -1,4 +1,4 @@
-# PostCSS Consistent Space [![Build Status][ci-img]][ci]
+# PostCSS Consistent Space [![Build Status](https://travis-ci.org/DimitrisNL/postcss-consistent-space.svg?branch=master)](https://travis-ci.org/DimitrisNL/postcss-consistent-space)
 
 Maintain consistent margin and padding spaces thorough your project
 
