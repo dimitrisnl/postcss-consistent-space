@@ -6,7 +6,7 @@
     "postcss",
     "css",
     "postcss-plugin",
-    "utilities",
+    "utility",
     "grid"
   ],
   "author": "Dimitrios Lytras <dnlytras@gmail.com>",
