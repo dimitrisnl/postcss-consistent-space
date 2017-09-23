@@ -1,3 +1,5 @@
+'use strict';
+
 var postcss = require('postcss');
 
 module.exports = postcss.plugin('postcss_consistent_space', function (opts) {
