@@ -1,4 +1,4 @@
-# PostCSS Consistent Space [![Build Status](https://travis-ci.org/DimitrisNL/postcss-consistent-space.svg?branch=master)](https://travis-ci.org/DimitrisNL/postcss-consistent-space)
+# PostCSS Consistent Space [![Build Status](https://travis-ci.org/DimitrisNL/postcss-consistent-space.svg?branch=master)](https://travis-ci.org/DimitrisNL/postcss-consistent-space) ![npm](https://img.shields.io/npm/dt/postcss-consistent-space.svg)
 
 Maintain consistent margin and padding spaces thorough your project
 
@@ -8,7 +8,7 @@ Maintain consistent margin and padding spaces thorough your project
 
 ```css
 .foo {
-    @space margin 2 3;
+  @space margin 2 3;
 }
 ```
 
@@ -28,10 +28,10 @@ postcss([ require('postcss-consistent-space') ])
 or with props
 ```js
 postcss([ require('postcss-consistent-space') ])
-        ({
-            base: 4,
-            unit: 'em',
-        }),
+    ({
+        base: 4,
+        unit: 'em',
+    }),
 ```
 
 See [PostCSS] docs for examples for your environment.

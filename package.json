@@ -1,6 +1,6 @@
 {
   "name": "postcss-consistent-space",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Maintain consistent margin and padding space thorough your project",
   "keywords": [
     "postcss",
@@ -17,20 +17,14 @@
   },
   "homepage": "https://github.com/DimitrisNL/postcss-consistent-space",
   "dependencies": {
-    "postcss": "^6.0.1"
+    "postcss": "^6.0.19"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
-    "eslint-config-postcss": "^2.0.2",
-    "jest": "^20.0.0"
+    "jest": "^20.0.0",
+    "prettier": "^1.11.1",
+    "prettierrc": "^0.0.0-5"
   },
   "scripts": {
-    "test": "jest && eslint *.js"
-  },
-  "eslintConfig": {
-    "extends": "eslint-config-postcss/es5",
-    "env": {
-      "jest": true
-    }
+    "test": "jest"
   }
 }
