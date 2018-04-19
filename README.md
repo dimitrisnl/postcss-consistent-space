@@ -3,8 +3,8 @@
 Maintain consistent margin and padding spaces thorough your project
 
 [PostCSS]: https://github.com/postcss/postcss
-[ci-img]:  https://travis-ci.org/DimitrisNL/postcss-consistent-space.svg
-[ci]:      https://travis-ci.org/DimitrisNL/postcss-consistent-space
+[ci-img]:  https://travis-ci.org/dimitrisnl/postcss-consistent-space.svg
+[ci]:      https://travis-ci.org/dimitrisnl/postcss-consistent-space
 
 ```css
 .foo {
