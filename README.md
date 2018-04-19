@@ -1,4 +1,4 @@
-# PostCSS Consistent Space [![Build Status](https://travis-ci.org/DimitrisNL/postcss-consistent-space.svg?branch=master)](https://travis-ci.org/dimitrisnl/postcss-consistent-space) ![npm](https://img.shields.io/npm/dt/postcss-consistent-space.svg)
+# PostCSS Consistent Space [![Build Status](https://travis-ci.org/dimitrisnl/postcss-consistent-space.svg?branch=master)](https://travis-ci.org/dimitrisnl/postcss-consistent-space) ![npm](https://img.shields.io/npm/dt/postcss-consistent-space.svg)
 
 Maintain consistent margin and padding spaces thorough your project
 
