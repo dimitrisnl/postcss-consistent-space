@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/DimitrisNL/postcss-consistent-space",
   "dependencies": {
-    "postcss": "^6.0.19"
+    "postcss": "^7.0.8"
   },
   "devDependencies": {
     "jest": "^20.0.0",
