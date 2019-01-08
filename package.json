@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/DimitrisNL/postcss-consistent-space",
   "dependencies": {
-    "postcss": "^6.0.19"
+    "postcss": "^7.0.8"
   },
   "devDependencies": {
-    "jest": "^20.0.0",
+    "jest": "^23.6.0",
     "prettier": "^1.11.1",
     "prettierrc": "^0.0.0-5"
   },
